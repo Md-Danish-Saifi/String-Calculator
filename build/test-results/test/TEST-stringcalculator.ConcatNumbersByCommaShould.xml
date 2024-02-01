@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="stringcalculator.ConcatNumbersByCommaShould" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-31T17:06:56" hostname="DESKTOP-VBQDGQB" time="0.017">
+  <properties/>
+  <testcase name="return_3" classname="stringcalculator.ConcatNumbersByCommaShould" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

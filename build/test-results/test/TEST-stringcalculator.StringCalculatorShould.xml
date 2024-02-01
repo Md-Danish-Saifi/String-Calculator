@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="stringcalculator.StringCalculatorShould" tests="18" skipped="0" failures="0" errors="0" timestamp="2024-01-31T17:06:56" hostname="DESKTOP-VBQDGQB" time="0.045">
+  <properties/>
+  <testcase name="return_3_with_custom_delimiter_2" classname="stringcalculator.StringCalculatorShould" time="0.008"/>
+  <testcase name="return_3_with_custom_delimiter_3" classname="stringcalculator.StringCalculatorShould" time="0.001"/>
+  <testcase name="throw_exception_negatives_not_allowed_listing_numbers_two_negatives" classname="stringcalculator.StringCalculatorShould" time="0.009"/>
+  <testcase name="throw_exception_negatives_not_allowed_listing_numbers" classname="stringcalculator.StringCalculatorShould" time="0.001"/>
+  <testcase name="return_1008" classname="stringcalculator.StringCalculatorShould" time="0.001"/>
+  <testcase name="return_3_with_custom_delimiter" classname="stringcalculator.StringCalculatorShould" time="0.001"/>
+  <testcase name="return_16" classname="stringcalculator.StringCalculatorShould" time="0.001"/>
+  <testcase name="return_27" classname="stringcalculator.StringCalculatorShould" time="0.0"/>
+  <testcase name="return_53" classname="stringcalculator.StringCalculatorShould" time="0.001"/>
+  <testcase name="return_55" classname="stringcalculator.StringCalculatorShould" time="0.002"/>
+  <testcase name="return_99" classname="stringcalculator.StringCalculatorShould" time="0.001"/>
+  <testcase name="return_0" classname="stringcalculator.StringCalculatorShould" time="0.001"/>
+  <testcase name="return_1" classname="stringcalculator.StringCalculatorShould" time="0.0"/>
+  <testcase name="return_2" classname="stringcalculator.StringCalculatorShould" time="0.0"/>
+  <testcase name="return_3" classname="stringcalculator.StringCalculatorShould" time="0.001"/>
+  <testcase name="return_4" classname="stringcalculator.StringCalculatorShould" time="0.002"/>
+  <testcase name="return_6" classname="stringcalculator.StringCalculatorShould" time="0.0"/>
+  <testcase name="return_8" classname="stringcalculator.StringCalculatorShould" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

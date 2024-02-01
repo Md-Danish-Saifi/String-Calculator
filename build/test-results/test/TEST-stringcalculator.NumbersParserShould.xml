@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="stringcalculator.NumbersParserShould" tests="4" skipped="0" failures="0" errors="0" timestamp="2024-01-31T17:06:56" hostname="DESKTOP-VBQDGQB" time="0.009">
+  <properties/>
+  <testcase name="parseNumber[0]" classname="stringcalculator.NumbersParserShould" time="0.006"/>
+  <testcase name="parseNumber[1]" classname="stringcalculator.NumbersParserShould" time="0.001"/>
+  <testcase name="parseNumber[2]" classname="stringcalculator.NumbersParserShould" time="0.001"/>
+  <testcase name="parseNumber[3]" classname="stringcalculator.NumbersParserShould" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
